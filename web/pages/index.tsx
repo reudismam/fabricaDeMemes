@@ -26,10 +26,6 @@ export default function Home() {
       }
 
       image.src = firstImage;
-
-
-
-
     }
   }, [images]);
 
